@@ -5,7 +5,7 @@ According to **Our World in Data**, the actual death toll from COVID-19 is "like
 ###### DATA UPDATED JANUARY 20, 2022.
 
 ## SQL
-Database tables queried with **Management Studio (SSMS)**.
+Database tables queried with **SQL Server Management Studio (SSMS)** within Microsoft SQL Server.
 
 ## About the Database
 The *Our World in Data* COVID-19 datasets can be found on https://ourworldindata.org/covid-deaths. \
