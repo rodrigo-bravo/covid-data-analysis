@@ -1,7 +1,7 @@
 # SQL Data Analysis for COVID-19
 *Deep dive analysis of worldwide COVID-19 data.*
 
-According to **Our World in Data**, the actual death toll from COVID-19 is "likely to be higher than the number of confirmed deaths" due to limited testing and problems in the attribution of the cause of death. The difference between reported confirmed deaths and actual deaths varies by country. Therefore, this data, though updated daily, provides solely an approximation of true numbers.
+According to **Our World in Data**, the actual death toll from COVID-19 is "likely to be higher than the number of confirmed deaths" due to limited testing and problems in the attribution of the cause of death. The difference between reported confirmed deaths and actual deaths varies by country. 
 ###### DATA UPDATED JANUARY 20, 2022.
 
 
